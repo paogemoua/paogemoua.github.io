@@ -7,7 +7,7 @@ My name is Paoge M., and welcome to my portfolio! Please feel free to browse thr
 
 ## Visuals
 
-![](portfolio_frontpage.png)
+![image](https://user-images.githubusercontent.com/42053062/48709178-5c581e00-ebca-11e8-9e00-a98acc029809.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
