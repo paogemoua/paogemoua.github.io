@@ -15,7 +15,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Authors and Acknowledgment
-#### Meta
+### Meta
 Paoge Moua - paoge.moua@gmail.com OR pobzeb.m@gmail.com
 
 Distributed under the [MIT] license. See ''LICENSE'' for more information.
@@ -38,7 +38,7 @@ Partnerships:
 [MIT]
 
 ## Project Status
-11.20.2018 In progress - more projects to come. 
+11.19.2018 In progress - more projects to come. 
 
 <!-- Linked -->
 [MIT]: https://choosealicense.com/licenses/mit/
