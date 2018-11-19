@@ -7,16 +7,18 @@ My name is Paoge M., and welcome to my portfolio! Please feel free to browse thr
 
 ## Visuals
 
+![](portfolio_frontpage.png)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
 ## Authors and Acknowledgment
-### Meta
+#### Meta
 Paoge Moua - paoge.moua@gmail.com OR pobzeb.m@gmail.com
 
-Distributed under the MIT license. See ''LICENSE'' for more information.
+Distributed under the [MIT] license. See ''LICENSE'' for more information.
 
 Portfolio address: https://paogemoua.github.io/
 
