@@ -3,7 +3,18 @@
 ## Description
 Greetings all newcomers,
 
-My name is Paoge M., and welcome to my portfolio! Please feel free to browse through all of my public projects. 
+My name is Paoge M., and welcome to my portfolio! Please feel free to browse through all of my public projects.
+
+I'm a young professional with a strong entrepreneurial spirit and deep attachment to
+community service and development. 
+
+My affair with technology - from the past until now - all involve design and 
+applications in every interest I pursue.  Now, into the future, I resolve to bring 
+this affair into the light as my desire to mingle with the complexity of 
+technological research, design and deployment. 
+
+I have experience in web development technologies like JavaScript, Java, Python and
+C-languages, as well as electronic hardware such as Apple products hardware. 
 
 ## Visuals
 
