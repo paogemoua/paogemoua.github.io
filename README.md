@@ -31,8 +31,8 @@ Resume: https://drive.google.com/file/d/0B16xD8lWPCoISExvWU16cF9qS3dmVFlqVm5xS21
 Blog: 
 
 Partnerships:
-* Jacob Franklin
-* Aaron Rehlinger
+* [Jacob Franklin]
+* [Aaron Rehlinger]
 
 ## License
 [MIT]
@@ -42,3 +42,5 @@ Partnerships:
 
 <!-- Linked -->
 [MIT]: https://choosealicense.com/licenses/mit/
+[Jacob Franklin]: https://jacobtfranklin.github.io/Bootstrap-Portfolio/
+[Aaron Rehlinger]: https://rehlingera.github.io
