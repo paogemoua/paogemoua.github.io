@@ -44,6 +44,7 @@ Blog:
 Partnerships:
 * [Jacob Franklin]
 * [Aaron Rehlinger]
+* [Sam Rehlinger]
 
 ## License
 [MIT]
@@ -55,3 +56,4 @@ Partnerships:
 [MIT]: https://choosealicense.com/licenses/mit/
 [Jacob Franklin]: https://jacobtfranklin.github.io/Bootstrap-Portfolio/
 [Aaron Rehlinger]: https://rehlingera.github.io
+[Sam Rehlinger: https://lamuel27.github.io/Updated-Portfolio/portfolio.html
